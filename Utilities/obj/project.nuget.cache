@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7tfE53NMReg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\عائشة\\Downloads\\LAHJA-API-V2-master\\LAHJA-API-V2-master\\Utilities\\Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\عائشة\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512",
+    "C:\\Users\\عائشة\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\عائشة\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\عائشة\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

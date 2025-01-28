@@ -1,0 +1,14 @@
+﻿Ctrl + Alt + click : Add a secondary caret
+Ctrl + Alt + double-click : Add a secondary word selection
+Ctrl + Alt + click + drag : Add a secondary selection
+Shift + Alt + . : Add the next matching text as a selection // select the same word one by one
+Shift + Alt + ; : Add all matching text as selections // select the same words at the same time 
+Shift + Alt + , : Remove last selected occurrence
+Shift + Alt + / : Skip next matching occurrence
+
+Ctrl + Delete : Word delete to end
+Ctrl + Backspace : Word delete to start
+
+Ctrl + Backspace : back to last change
+Ctrl + _ : go to priv changes
+Ctrl + shift + _ : go to next changes

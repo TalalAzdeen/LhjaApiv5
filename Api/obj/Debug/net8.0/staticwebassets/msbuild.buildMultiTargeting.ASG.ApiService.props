@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASG.ApiService.props" />
+</Project>

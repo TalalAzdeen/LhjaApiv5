@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Co0i+baLC6I/YBfRlzdMtO5PYSvJzM0W5vUo/Tp07rs=",
+  "Source": "ASG.ApiService",
+  "BasePath": "_content/ASG.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\bin\ASGWebAssembly\net7.0\StripeGateway.deps.json
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\bin\ASGWebAssembly\net7.0\StripeGateway.dll
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\bin\ASGWebAssembly\net7.0\StripeGateway.pdb
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\obj\ASGWebAssembly\net7.0\StripeGateway.csproj.AssemblyReference.cache
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\obj\ASGWebAssembly\net7.0\StripeGateway.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\obj\ASGWebAssembly\net7.0\StripeGateway.AssemblyInfoInputs.cache
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\obj\ASGWebAssembly\net7.0\StripeGateway.AssemblyInfo.cs
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\obj\ASGWebAssembly\net7.0\StripeGateway.csproj.CoreCompileInputs.cache
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\obj\ASGWebAssembly\net7.0\StripeGateway.dll
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\obj\ASGWebAssembly\net7.0\refint\StripeGateway.dll
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\obj\ASGWebAssembly\net7.0\StripeGateway.pdb
+G:\ProgramOfStudy\VisaulPrograming\web\Libraries\StripeGateway\obj\ASGWebAssembly\net7.0\ref\StripeGateway.dll
